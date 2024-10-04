@@ -1,1 +1,16 @@
-eu acho isso bem necessário
+# meu / primeiro projeto
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
+fazendo testes para aprender mais
+
+## 🎂 Documentação
+A documentação para a identidade são
+
+**R.G , CPF, Certidao de nascimento / casamento**
+
+## Local para tirar
+
+| SINE | 2º DISTRITO |
+|-------|------------|
+
